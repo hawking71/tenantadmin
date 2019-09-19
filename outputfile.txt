@@ -1,0 +1,197 @@
+> Input a DC (eu1,eu2,ap1,...) : dc:us3
+> Input landscape (default(production), preview/prev for preview) : landscape:
+> Input username : user:i063065
+> Input password : pass:Jerrycat68
+Collected all inputs, will start task with {"subAccount":"idj3j8m8yp","dc":"us3","landscape":"production","user":"i063065","pass":"Jerrycat68"}
+272
+before for
+subaccount = idj3j8m8yp
+element name = h0d0fd2c0
+element name = hbd5936b6
+element name = h529d92c4
+element name = h6bff1812
+element name = hd428f378
+element name = hcd29ba64
+element name = h5ae9b4d8
+element name = ks1qjmh633
+element name = hfd2e23d3
+element name = haa4d6604
+element name = h8ca173a5
+element name = hf7078267
+element name = h57f4b412
+element name = h2a5f06ff
+element name = h95ba42e4
+element name = hcb16e90b
+element name = h6b3e906c
+element name = h2cec989a
+element name = h8ead3e03
+element name = h815bcb42
+element name = hb443cfd2
+element name = h787a0459
+element name = ya0f1xkdui
+element name = hb7a37779
+element name = hec1f5853
+element name = h3e216bfa
+element name = h7d3c4328
+element name = hf91a8b91
+element name = jnpec01kq7
+element name = h6d33aoxrk
+element name = h87f4656c
+element name = h7a518731
+element name = hadc803d2
+element name = hfa005713
+element name = h0943260c
+element name = hce7fcfdd
+element name = rhyj11kzv5
+element name = ha6b43caa
+element name = h022ac7fa
+element name = h39e8b5c5
+element name = h681fa0b9
+element name = he837c05a
+element name = h052291bb
+element name = h4fed9987
+element name = hb14e85c1
+element name = h8e1dbb07
+element name = h34f5b50f
+element name = h5b2bdeef
+element name = ntzs49z6d0
+element name = hc78bdf60
+element name = pdvpwlzdk3
+element name = h269c5c49
+element name = y72wbfos0x
+element name = e04yd33iaw
+element name = h9f2d3e1a
+element name = h8f25a7cb
+element name = h78607c04
+element name = k4w24h21nt
+element name = h612bc6e7
+element name = h8a0edd8b
+element name = h0012d20a
+element name = is2fnrglf9
+element name = h3e45073f
+element name = hcaf2b36f
+element name = z3prt5b7e1
+element name = h6984afe9
+element name = pmj4nrhinr
+element name = t0pebpvils
+element name = h1f18902f
+element name = h7a08e256
+element name = qtx1x2fpma
+element name = s5cs032hzw
+element name = h90c7fb10
+element name = h73422fa1
+element name = eerpz0yl5n
+element name = hf1860c42
+element name = qaroy7qww7
+element name = qq6jevy8l3
+element name = h21616511
+element name = h7d6d3617
+element name = nnwmmm79m9
+element name = uiqev0oyli
+element name = kgr7e2ztur
+element name = h60fb7be4
+element name = o5ra43v9ep
+element name = apw0mlilwt
+element name = h3b7d54d6
+element name = tnnhbw6rpw
+element name = pd1u8bon2e
+element name = hc7597eb7
+element name = qbln9h21ij
+element name = h2dda6329
+element name = hfe8ea760
+element name = hec435400
+element name = h65df1846
+element name = h164b04a7
+element name = haab48eec
+element name = wzl1yudval
+element name = hcd1ec310
+element name = fkr5yc93h1
+element name = h0f86bca9
+element name = h74ee63c6
+element name = h4eef8553
+element name = h616864ec
+element name = hb5e5c920
+element name = h10c9aba0
+element name = h8344af4d
+element name = h5636de25
+element name = h9e91ff84
+element name = h7e44169a
+element name = ha74c5685
+element name = h166eaae7
+element name = cpv57isskk
+element name = hbafc2b25
+element name = ld6266f17c
+element name = h58e5f97e
+element name = hd1890c24
+element name = h8dbf5f3a
+element name = hf01c42be
+element name = he37f1845
+element name = hca5e0620
+element name = h0bb3ea76
+element name = h82ba8d74
+element name = h471b95ee
+element name = ha78c2066
+element name = h09581ffd
+element name = h7bd91ef9
+element name = hcffff97c
+element name = h7e5f2f6b
+element name = q64754f365
+element name = vf5aee2c80
+element name = h1869647d
+element name = h29c7e2da
+element name = hf34c7f11
+element name = h310289e7
+element name = h938bf6f4
+element name = idj3j8m8yp
+got id, break
+Got tenantId: d698382a-607c-4719-89cc-889310c97702
+{ id: 'd698382a-607c-4719-89cc-889310c97702',
+  name: 'idj3j8m8yp',
+  displayName: 'Invista - Production',
+  customerId: 'CA15028895TID000000000740730323',
+  creationDate: 1532692583500,
+  provisioningStartDate: 1532692583496,
+  provisioningCompletionDate: 1532692612656,
+  active: true,
+  scimActive: false,
+  hmscimActive: false,
+  licenses: 100,
+  healthy: true,
+  inMaintenance: false,
+  dbSystemId: '663597332B76476290F6B98188CD105F',
+  dbSystemType: 'DedicatedASE',
+  dbName: 'hanamobileprod.mobilejava.idj3j8m8yp',
+  dbUser: 'I1fmekicbfiwcghfnxli',
+  dbPassword: '******',
+  dbSize: 11648,
+  usedDbSize: 1311,
+  last24HoursTraffic: 16718,
+  last7DaysTraffic: 1750750,
+  lastMonthTraffic: 168560460,
+  applicationCount: 4,
+  connectionCount: 622,
+  userCount: 108,
+  qosProfile: 3,
+  productive: false,
+  hibernating: false,
+  lastSeen: 1568607579590,
+  deleting: false,
+  tableSizes: 
+   [ { name: 'ML_CHANGE_LOG', rowCount: 14079, size: 1072 },
+     { name: 'SMP_DEFINING_REQUEST_DATE_STATS',
+       rowCount: 215300,
+       size: 32 },
+     { name: 'SMP_APPLICATION_TRACES', rowCount: 18742, size: 16 },
+     { name: 'SMP_AUDIT_LOG_DATA', rowCount: 592, size: 16 },
+     { name: 'CLIENT_LOGS', rowCount: 0, size: 0 } ],
+  solutionId: 'b2e',
+  dsName: 'idj3j8m8yp_df80e9c8',
+  serverLogSize: 10240,
+  clientLogSize: 10240,
+  eventLogSize: 10240 }
+{"name":"ML_CHANGE_LOG","rowCount":14079,"size":1072}
+{"name":"SMP_DEFINING_REQUEST_DATE_STATS","rowCount":215300,"size":32}
+{"name":"SMP_APPLICATION_TRACES","rowCount":18742,"size":16}
+{"name":"SMP_AUDIT_LOG_DATA","rowCount":592,"size":16}
+{"name":"CLIENT_LOGS","rowCount":0,"size":0}
+tenantInfo: {"id":"d698382a-607c-4719-89cc-889310c97702","name":"idj3j8m8yp","displayName":"Invista - Production","customerId":"CA15028895TID000000000740730323","creationDate":1532692583500,"provisioningStartDate":1532692583496,"provisioningCompletionDate":1532692612656,"active":true,"scimActive":false,"hmscimActive":false,"licenses":100,"healthy":true,"inMaintenance":false,"dbSystemId":"663597332B76476290F6B98188CD105F","dbSystemType":"DedicatedASE","dbName":"hanamobileprod.mobilejava.idj3j8m8yp","dbUser":"I1fmekicbfiwcghfnxli","dbPassword":"******","dbSize":11648,"usedDbSize":1311,"last24HoursTraffic":16718,"last7DaysTraffic":1750750,"lastMonthTraffic":168560460,"applicationCount":4,"connectionCount":622,"userCount":108,"qosProfile":3,"productive":false,"hibernating":false,"lastSeen":1568607579590,"deleting":false,"tableSizes":[{"name":"ML_CHANGE_LOG","rowCount":14079,"size":1072},{"name":"SMP_DEFINING_REQUEST_DATE_STATS","rowCount":215300,"size":32},{"name":"SMP_APPLICATION_TRACES","rowCount":18742,"size":16},{"name":"SMP_AUDIT_LOG_DATA","rowCount":592,"size":16},{"name":"CLIENT_LOGS","rowCount":0,"size":0}],"solutionId":"b2e","dsName":"idj3j8m8yp_df80e9c8","serverLogSize":10240,"clientLogSize":10240,"eventLogSize":10240}

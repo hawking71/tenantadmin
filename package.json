@@ -1,0 +1,21 @@
+{
+  "name": "tenantadmin",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "debug": "~2.6.9",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5",
+    "sprintf-js": "^1.1.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^6.2.0",
+    "sinon": "^7.4.2"
+  }
+}
